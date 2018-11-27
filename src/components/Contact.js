@@ -33,16 +33,9 @@ const Contact = (props) => (
                 </section>
                 <section>
                     <div className="contact-method">
-                        <span className="icon alt fa-phone"></span>
-                        <h3>Phone</h3>
-                        <span>(000) 000-0000 </span>
-                    </div>
-                </section>
-                <section>
-                    <div className="contact-method">
                         <span className="icon alt fa-home"></span>
-                        <h3>Address</h3>
-                        <span>Los Angeles, CA 90001<br />
+                        <h3>Location</h3>
+                        <span>Los Angeles, CA<br />
                         United States of America</span>
                     </div>
                 </section>
